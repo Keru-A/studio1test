@@ -9,3 +9,9 @@ This is a paragraph. owo whats this. I dont know what I'm doing.
 - i think im losing my mind
 
 Hello world wow okay
+
+- more
+- bullet points
+- i dont know
+- how to use
+- markdown
